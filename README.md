@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prabhat Singh</h1>
 <h3 align="center">A passionate AI learner from India</h3>
 
-<img align="right" alt="Programming" width="500" src="![image](https://github.com/Prabhat9801/Prabhat9801/assets/147770486/001bbfbb-f76f-485f-b610-267722039283)">
+
+
+
+<img align="right" alt="Programming" width="500" src="![image](https://github.com/Prabhat9801/Prabhat9801/assets/147770486/2f123d2e-816b-47a6-beb9-c296966f8a0d)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat9801&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat9801" /> </p>
 
