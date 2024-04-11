@@ -1,4 +1,4 @@
-![logo](https://github.com/Prabhat9801/Prabhat9801/blob/main/github-header-image%20(2).png)
+![logo](https://github.com/Prabhat9801/Prabhat9801/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Prabhat Singh</h1>
 <h3 align="center">A passionate AI learner from India</h3>
 <img align="right" alt="Programming" width="500" src="![image](https://github.com/Prabhat9801/Prabhat9801/assets/147770486/308d1f68-f1f2-4b8b-9aae-db191473f365)">
