@@ -111,10 +111,6 @@ class PrabhatSingh:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabhat9801&theme=tokyonight&no-frame=false&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</div>
-
-<div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=prabhat9801&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0e75b6&line=6e48aa&point=ffffff&area=true" alt="activity graph" />
 </div>
 
